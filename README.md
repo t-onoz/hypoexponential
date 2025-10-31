@@ -1,5 +1,9 @@
 # Hypoexponential distribution
-See https://en.wikipedia.org/wiki/Hypoexponential_distribution
+See: https://en.wikipedia.org/wiki/Hypoexponential_distribution
+
+# Implementation
+The `hypoexpon_gen` class inherits `scipy.stats.rv_continuous`, thus various methods it provides are available.
+See: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.rv_continuous.html
 
 # Usage
 ```python
